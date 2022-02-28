@@ -1,2 +1,3 @@
-# Project Template for Next.js with Tailwind & typescript
+# Next.js project with Tailwindcss and Typescript
+- added react-icons
 
